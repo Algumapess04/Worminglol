@@ -2,6 +2,7 @@ AdvancedWorm: A Stealthy Network Exploitation Tool
 AdvancedWorm is a sophisticated network exploitation tool designed for security researchers and penetration testers. It combines multiple evasion techniques, automated target discovery, and powerful post-exploitation capabilities.
 
 Features
+
 Multi-platform Support: Runs on Windows, Linux, and macOS
 Advanced Evasion: Uses encryption, polymorphic code, and process hollowing
 Automated Target Discovery: Scans networks for vulnerable services
@@ -55,8 +56,11 @@ Python 3.7+
 pynput (for keylogging)
 cryptography (for encryption)
 requests (for C2)
+
 License
+
 MIT License - see LICENSE file for details.
 
 Security Considerations
+
 This tool should only be used on authorized systems with explicit permission. Unauthorized use may violate laws and regulations. Always ensure you have proper authorization before using this tool.

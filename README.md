@@ -60,5 +60,3 @@ MIT License - see LICENSE file for details.
 
 Security Considerations
 This tool should only be used on authorized systems with explicit permission. Unauthorized use may violate laws and regulations. Always ensure you have proper authorization before using this tool.
-
-Copy message

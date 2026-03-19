@@ -37,8 +37,8 @@ python AdvancedWorm.py
 Select from three worm types:
 
 Print
-<img width="475" height="254" alt="image" src="https://github.com/user-attachments/assets/f42b1633-b548-476b-bb7a-d3b95677764e" />
 
+<img width="475" height="254" alt="image" src="https://github.com/user-attachments/assets/f42b1633-b548-476b-bb7a-d3b95677764e" />
 
 Basic Worm: Standard exploitation
 Advanced Worm: Enhanced evasion
